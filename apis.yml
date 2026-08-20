@@ -20,6 +20,16 @@ modified: '2026-08-06'
 tags:
 - Company
 - Application Development
+- No-Code
+- Low-Code
+- Enterprise Software
+- Workflow-Automation
+- Artificial Intelligence
+- Integration
+- Field Service
+tags_raw:
+- Company
+- Application Development
 - No Code
 - Low Code
 - Enterprise Software
@@ -40,6 +50,10 @@ apis:
   humanURL: https://www.appify.com/platform
   baseURL: https://login.appify.com/api/v1
   tags:
+  - Application Development
+  - No-Code
+  - Enterprise Software
+  tags_raw:
   - Application Development
   - No Code
   - Enterprise Software
