@@ -11,6 +11,17 @@ description: 'Appify is an enterprise application platform that lets organizatio
   endpoints" as standard capabilities. No public developer portal, API reference, or
   machine-readable specification is published; the API surface sits behind the tenant login.'
 url: https://raw.githubusercontent.com/api-evangelist/appify/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://www.appify.com/favicon.ico
 x-type: company
 x-source: harvest:secondary-market
