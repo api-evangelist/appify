@@ -48,7 +48,7 @@ tags:
 - No-Code
 - Low-Code
 - Enterprise Software
-- Workflow-Automation
+- Workflow Automation
 - Artificial Intelligence
 - Integration
 - Field Service
@@ -62,6 +62,7 @@ tags_raw:
 - Artificial Intelligence
 - Integration
 - Field Service
+- Workflow-Automation
 apis:
 - name: Appify Platform REST API
   description: 'The Appify platform''s tenant-facing REST API. Appify''s public pricing page
