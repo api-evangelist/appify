@@ -1,0 +1,32 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.appify.com/pricing
+sources:
+- https://www.appify.com/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed+licensed
+  method: page
+  read: '2026-10-07'
+  evidence: Private cloud hosting
+published: false
+note: No numeric prices; page directs to contact for a custom quote. Mentions 40, 80, or 120-hour retainer
+  packages but no prices.
+plan_count: 2
+plans:
+- name: Appify Subscription (Standard Capabilities)
+  price_text: Ready to see a custom quote?
+  period: none
+  included_quota: Appify Studio, Clients, Flex database; portals; multi-language/currency; workflows,
+    analytics, RBAC; unlimited apps, objects, endpoints; mobile clients; REST API access; standard support
+    (8x5); SOC 2 Type 2
+- name: Advanced Capabilities
+  price_text: Tailored Pricing for Advanced Capabilities
+  period: none
+  included_quota: 'Optional add-ons: SSO, OCR, SMS, RFID, private cloud hosting, AppGPT AI agents, etc.'
